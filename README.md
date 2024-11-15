@@ -3,9 +3,9 @@ Here you can find the newest version of GoP. Put lwjgl version 3.3.2 in folder i
 <b>The newest version is currently unavailable but the changes are listed.</b>
 
 # Changes:
-• Finished MeshBuilder
-• Added a noise generator for future terrain generation
-• Fixed bug with normals
+• Finished MeshBuilder<br />
+• Added a noise generator for future terrain generation<br />
+• Fixed bug with normals<br />
 • Fixed bug with unmanifold meshes<br />
 
 # Currently being developed:
