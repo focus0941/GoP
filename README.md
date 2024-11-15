@@ -9,9 +9,9 @@ Here you can find the newest version of GoP. Put lwjgl version 3.3.2 in folder i
 • Fixed bug with unmanifold meshes<br />
 
 # Currently being developed:
-• Replace Marching-Cubes-Algorithm with Dual-Contuouring or Surface-Nets
-• Shadow Mapping
-• Chunk-Loading System
+• Replace Marching-Cubes-Algorithm with Dual-Contuouring or Surface-Nets<br />
+• Shadow Mapping<br />
+• Chunk-Loading System<br />
 • Change the structure of "Chunk" from 1d-array to octree for easy and efficient LOD<br />
 
 # Futher plans:
