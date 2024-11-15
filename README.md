@@ -15,4 +15,8 @@ Here you can find the newest version of GoP. Put lwjgl version 3.3.2 in folder i
 • Change the structure of "Chunk" from 1d-array to octree for easy and efficient LOD<br />
 
 # Futher plans:
-• 
+• Multiple texture texturing<br />
+• Terrain generation
+• Plants
+• Physics
+• Fluids
