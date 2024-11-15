@@ -1,5 +1,18 @@
 # GoP
 Here you can find the newest version of GoP. Put lwjgl version 3.3.2 in folder inside your project and name it "lib" as the library and import it in the project.
+<b>The newest version is currently unavailable but the changes are listed.</b>
 
 # Changes:
-• Fixed bug in MeshBuilder<br />
+• Finished MeshBuilder
+• Added a noise generator for future terrain generation
+• Fixed bug with normals
+• Fixed bug with unmanifold meshes<br />
+
+# Currently being developed:
+• Replace Marching-Cubes-Algorithm with Dual-Contuouring or Surface-Nets
+• Shadow Mapping
+• Chunk-Loading System
+• Change the structure of "Chunk" from 1d-array to octree for easy and efficient LOD<br />
+
+# Futher plans:
+• 
